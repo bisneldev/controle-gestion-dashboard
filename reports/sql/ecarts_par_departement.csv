@@ -1,0 +1,7 @@
+departement,budget_total,depense_totale,ecart_fcfa,ecart_pct,statut
+IT,146835303.0,171839246.0,25003943.0,17.03,🔴 Dépassement
+Production,512912158.0,555280812.0,42368654.0,8.26,🔴 Dépassement
+Direction,226602493.0,241025254.0,14422761.0,6.36,🔴 Dépassement
+Commercial,300662100.0,314212514.0,13550414.0,4.51,🔴 Dépassement
+Finance,119720280.0,119256015.0,-464265.0,-0.39,🟢 Économie
+RH,175885319.0,173682553.0,-2202766.0,-1.25,🟢 Économie
